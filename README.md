@@ -1,12 +1,12 @@
 <h1 align="center">Felipe Aránguiz | Full Stack & AI Developer 🚀</h1>
 
- <table align="center">
+ <align="center">
   <tr>
     <td width="50%" align="center">
       <img src="Banner.png" width="100%" alt="Proyecto Mobile"/><br />
   </tr>
 </h4>
-</table>
+
   <b><a href="https://www.linkedin.com/in/felipearang/">LinkedIn</a></b>
   •
   <b><a href="https://github.com/meme11-co">GitHub</a></b>
