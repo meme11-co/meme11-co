@@ -53,21 +53,52 @@ Ingeniero Civil Informático apasionado por la convergencia entre la **Inteligen
 
 ---
 ## 🛠️ Portafolio Detallado
+## 📂 Galería de Proyectos (Acordeón)
+
+<p align="center"><i>Haz clic en cada categoría para ver mis trabajos</i></p>
+
+---
 
 <details>
-  <summary><b>📈 Inteligencia Artificial & Data Science</b></summary>
+  <summary><b>🤖 Proyectos de Inteligencia Artificial</b></summary>
   <br>
-  <img src="Banneria.png" width="100%">
-  <p>Análisis de productividad mediante modelos predictivos...</p>
+  <p align="center">
+    <img src="Banneria.png" width="100%" alt="Proyecto IA">
+  </p>
+  <blockquote>
+    <b>Optimización de Productividad:</b> Implementación de modelos de Machine Learning para la predicción de turnos y gestión de horas extra.
+    <br>
+    <i>Stack: Python, Scikit-learn, Pandas.</i>
+  </blockquote>
 </details>
 
 <details>
   <summary><b>📱 Desarrollo Mobile & Full Stack</b></summary>
   <br>
-  <img src="bannermobile.png" width="100%">
-  <p>Aplicaciones multiplataforma con integración en la nube...</p>
+  <p align="center">
+    <img src="bannermobile.png" width="100%" alt="Proyecto Mobile">
+  </p>
+  <blockquote>
+    <b>App Multiplataforma:</b> Desarrollo integral de aplicaciones móviles escalables conectadas a backends robustos.
+    <br>
+    <i>Stack: Flutter, Django, PostgreSQL.</i>
+  </blockquote>
 </details>
 
+<details>
+  <summary><b>☁️ Arquitectura Cloud & AWS</b></summary>
+  <br>
+  <p align="center">
+    <img src="Banner.png" width="100%" alt="Arquitectura Cloud">
+  </p>
+  <blockquote>
+    <b>Infraestructura Escalable:</b> Diseño de soluciones bajo demanda utilizando servicios de AWS con enfoque en alta disponibilidad.
+    <br>
+    <i>Stack: AWS Lambda, S3, EC2.</i>
+  </blockquote>
+</details>
+
+---
 ## ⚡ Datos Curiosos
 - ♟️ Jugador de ajedrez y entusiasta del **One Piece TCG**.
 - 🎲 Dungeon Master ocasional en **D&D**.
