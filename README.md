@@ -4,16 +4,6 @@
   <tr>
     <td width="50%" align="center">
       <img src="Banner.png" width="100%" alt="Proyecto Mobile"/><br />
-      <h4 align="center">Proyecto Mobile</h4>
-      <i>Descripción breve de tu app móvil</i><br />
-      <a href="https://github.com/meme11-co">Ver Repositorio 🔗</a>
-    </td>
-    <td width="50%" align="center">
-      <img src="Banner_IA.png" width="100%" alt="Proyecto IA"/><br />
-      <h4 align="center">Proyecto IA</h4>
-      <i>Optimización con Machine Learning</i><br />
-      <a href="https://github.com/meme11-co">Ver Repositorio 🔗</a>
-    </td>
   </tr>
 </table>
   <b><a href="https://www.linkedin.com/in/felipearang/">LinkedIn</a></b>
