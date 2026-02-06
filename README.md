@@ -1,4 +1,4 @@
-<h1 align="center">Felipe Aránguiz | Full Stack & AI Developer 🚀</h1>
+<h1 align="center">Felipe Aránguiz | Full Stack & AI Developer </h1>
 
 <table align="center" border="0">
   <tr>
@@ -17,10 +17,10 @@
 </table>
 
 
-## 🤖 Sobre mí
+##  Sobre mí
 Ingeniero Civil Informático apasionado por la convergencia entre la **Inteligencia Artificial** y el desarrollo **Full Stack (Web & Mobile)**. Actualmente enfocado en la arquitectura Cloud con AWS y la automatización inteligente de procesos.
 
-## 🚀 Proyectos Destacados
+## Proyectos Destacados
 
 <table align="center">
   <tr>
@@ -59,14 +59,14 @@ Ingeniero Civil Informático apasionado por la convergencia entre la **Inteligen
 ---
 
 <details>
-  <summary><b>🤖 Proyectos de Inteligencia Artificial (ML)</b></summary>
+  <summary><b> Proyectos de Inteligencia Artificial (ML)</b></summary>
   <br>
   <p align="center">
-    <img src="image.png" width="45%" alt="Captura IA 1">
-    <img src="image1.png" width="45%" alt="Captura IA 2">
+    <img src="gato1.png" width="45%" alt="Captura IA 1">
+    <img src="imagen_2026-02-06_060420222.png" width="45%" alt="Captura IA 2">
   </p>
   <blockquote>
-    Modelos predictivos y análisis de datos avanzados para optimización de procesos industriales.
+    Descripción: Implementación de un modelo de IA basado en Q-Learning para la resolución del juego "El Gato" (Tic-Tac-Toe) en tiempo real. El agente desarrolla una estrategia óptima mediante un proceso de aprendizaje por refuerzo, interactuando de forma autónoma con el entorno para maximizar su tasa de victoria sin supervisión humana.
   </blockquote>
 </details>
 
