@@ -30,7 +30,9 @@ Ingeniero Civil Informático apasionado por la convergencia entre la **Inteligen
       <a href="https://github.com/meme11-co">Ver Repositorio 🔗</a>
     </td>
     <td width="50%" align="center">
-      <img src="https://via.placeholder.com/400x200?text=Mobile+Project" width="100%" alt="Proyecto Mobile"/><br />
+     <div align="center">
+  <img src="image.png" alt="Felipe Aranguiz Banner" width="20%">
+</div>
       <b>Desarrollo Móvil & Web</b><br />
       <i>App multiplataforma en Flutter + Django</i><br />
       <a href="https://github.com/meme11-co">Ver Repositorio 🔗</a>
