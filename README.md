@@ -20,7 +20,7 @@ Ingeniero Civil Informático apasionado por la convergencia entre la **Inteligen
 <table align="center">
   <tr>
     <td width="50%" align="center">
-      <img src="banner_ia.png" width="100%" alt="Proyecto IA"/><br />
+      <img src="Banneria.png" width="100%" alt="Proyecto IA"/><br />
       <b>Proyecto IA & Machine Learning</b><br />
       <i>Optimización de procesos con ML</i><br />
       <a href="https://github.com/meme11-co">Ver Repositorio 🔗</a>
