@@ -110,10 +110,9 @@ Ingeniero Civil Informático apasionado por la convergencia entre la **Inteligen
 
 <details>
   <summary><b> Otros Recursos y Certificaciones</b></summary>
-  <br>
-  <p align="center">
-    <img src="imagen_2026-02-06_021550192.png" width="90%" alt="Recurso Adicional">
-  </p>
+    <blockquote>
+   Ingeniero Civil Informático | Especialista en IA y Arquitectura Cloud (AWS) Ingeniero con diplomado en Inteligencia Artificial enfocado en el desarrollo de soluciones escalables. Experiencia implementando modelos de Machine Learning (Reinforcement Learning) y arquitecturas robustas en AWS. Especialista en el ciclo completo de desarrollo: desde el backend con Next.js/TypeScript hasta el despliegue mobile con Capacitor, asegurando siempre alta disponibilidad y optimización de recursos en la nube.
+  </blockquote>
 </details>
 
 ---
