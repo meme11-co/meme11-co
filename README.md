@@ -55,48 +55,57 @@ Ingeniero Civil Informático apasionado por la convergencia entre la **Inteligen
 ## 🛠️ Portafolio Detallado
 ## 📂 Galería de Proyectos (Acordeón)
 
-<p align="center"><i>Haz clic en cada categoría para ver mis trabajos</i></p>
+## 📂 Galería de Proyectos e Imágenes
+
+<p align="center"><i>Haz clic para desplegar las capturas de pantalla de mi trabajo</i></p>
 
 ---
 
 <details>
-  <summary><b>🤖 Proyectos de Inteligencia Artificial</b></summary>
+  <summary><b>🤖 Proyectos de Inteligencia Artificial (ML)</b></summary>
   <br>
   <p align="center">
-    <img src="Banneria.png" width="100%" alt="Proyecto IA">
+    <img src="image.png" width="45%" alt="Captura IA 1">
+    <img src="image1.png" width="45%" alt="Captura IA 2">
   </p>
   <blockquote>
-    <b>Optimización de Productividad:</b> Implementación de modelos de Machine Learning para la predicción de turnos y gestión de horas extra.
-    <br>
-    <i>Stack: Python, Scikit-learn, Pandas.</i>
+    Modelos predictivos y análisis de datos avanzados para optimización de procesos industriales.
   </blockquote>
 </details>
 
 <details>
-  <summary><b>📱 Desarrollo Mobile & Full Stack</b></summary>
+  <summary><b>📱 Desarrollo Full Stack & Mobile</b></summary>
   <br>
   <p align="center">
-    <img src="bannermobile.png" width="100%" alt="Proyecto Mobile">
+    <img src="image2.png" width="45%" alt="Mobile App 1">
+    <img src="image3.png" width="45%" alt="Web App 1">
   </p>
   <blockquote>
-    <b>App Multiplataforma:</b> Desarrollo integral de aplicaciones móviles escalables conectadas a backends robustos.
-    <br>
-    <i>Stack: Flutter, Django, PostgreSQL.</i>
+    Interfaces modernas y funcionales desarrolladas con Flutter y Next.js.
   </blockquote>
 </details>
 
 <details>
-  <summary><b>☁️ Arquitectura Cloud & AWS</b></summary>
+  <summary><b>☁️ Infraestructura Cloud & AWS</b></summary>
   <br>
   <p align="center">
-    <img src="Banner.png" width="100%" alt="Arquitectura Cloud">
+    <img src="image4.png" width="45%" alt="Arquitectura AWS">
+    <img src="image5.png" width="45%" alt="Configuración Cloud">
   </p>
   <blockquote>
-    <b>Infraestructura Escalable:</b> Diseño de soluciones bajo demanda utilizando servicios de AWS con enfoque en alta disponibilidad.
-    <br>
-    <i>Stack: AWS Lambda, S3, EC2.</i>
+    Implementación de servicios escalables y seguros en la nube de Amazon Web Services.
   </blockquote>
 </details>
+
+<details>
+  <summary><b>🛠️ Otros Recursos y Certificaciones</b></summary>
+  <br>
+  <p align="center">
+    <img src="imagen_2026-02-06_021550192.png" width="90%" alt="Recurso Adicional">
+  </p>
+</details>
+
+---
 
 ---
 ## ⚡ Datos Curiosos
