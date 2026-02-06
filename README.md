@@ -1,8 +1,6 @@
 <h1 align="center">Felipe Aránguiz | Full Stack & AI Developer 🚀</h1>
 
-<div align="center">
-  <img src="image.png" alt="Felipe Aranguiz Banner" width="20%">
-</div>
+
 
 <h4 align="center">
   <b><a href="https://www.linkedin.com/in/felipearang/">LinkedIn</a></b>
@@ -31,7 +29,7 @@ Ingeniero Civil Informático apasionado por la convergencia entre la **Inteligen
     </td>
     <td width="50%" align="center">
      <div align="center">
-  <img src="imagen_2026-02-06_021550192.png" alt="Felipe Aranguiz Banner" width="40%">
+  <img src="imagen_2026-02-06_021550192.png" alt="Felipe Aranguiz Banner" width="50%">
 </div>
       <b>Desarrollo Móvil & Web</b><br />
       <i>App multiplataforma en Flutter + Django</i><br />
