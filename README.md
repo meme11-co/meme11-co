@@ -31,7 +31,7 @@ Ingeniero Civil Informático apasionado por la convergencia entre la **Inteligen
     </td>
     <td width="50%" align="center">
      <div align="center">
-  <img src="image.png" alt="Felipe Aranguiz Banner" width="20%">
+  <img src="imagen_2026-02-06_021550192.png" alt="Felipe Aranguiz Banner" width="20%">
 </div>
       <b>Desarrollo Móvil & Web</b><br />
       <i>App multiplataforma en Flutter + Django</i><br />
