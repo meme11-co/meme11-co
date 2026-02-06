@@ -53,9 +53,6 @@ Ingeniero Civil Informático apasionado por la convergencia entre la **Inteligen
 
 ---
 ## 🛠️ Portafolio Detallado
-## 📂 Galería de Proyectos (Acordeón)
-
-## 📂 Galería de Proyectos e Imágenes
 
 <p align="center"><i>Haz clic para desplegar las capturas de pantalla de mi trabajo</i></p>
 
