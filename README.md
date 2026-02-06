@@ -41,7 +41,7 @@ Ingeniero Civil Informático apasionado por la convergencia entre la **Inteligen
 
 ---
 
-## 🛠️ Tech Stack & Herramientas
+## Tech Stack & Herramientas
 
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -52,7 +52,7 @@ Ingeniero Civil Informático apasionado por la convergencia entre la **Inteligen
 </div>
 
 ---
-## 🛠️ Portafolio Detallado
+## Portafolio Detallado
 
 <p align="center"><i>Haz clic para desplegar las capturas de pantalla de mi trabajo</i></p>
 
@@ -71,7 +71,7 @@ Ingeniero Civil Informático apasionado por la convergencia entre la **Inteligen
 </details>
 
 <details>
-  <summary><b>📱 Desarrollo Mobile</b></summary>
+  <summary><b> Desarrollo Mobile</b></summary>
   <br>
    <blockquote>
     Descripción: Diseño y desarrollo de una aplicación móvil multiplataforma (iOS/Android) enfocada en la gestión de objetivos mediante el framework Capacitor. Implementé un sistema de trazabilidad de      rutinas que permite a los usuarios visualizar su progreso histórico y cumplir metas mediante indicadores de desempeño.
@@ -109,7 +109,7 @@ Ingeniero Civil Informático apasionado por la convergencia entre la **Inteligen
 </details>
 
 <details>
-  <summary><b>🛠️ Otros Recursos y Certificaciones</b></summary>
+  <summary><b> Otros Recursos y Certificaciones</b></summary>
   <br>
   <p align="center">
     <img src="imagen_2026-02-06_021550192.png" width="90%" alt="Recurso Adicional">
@@ -119,7 +119,6 @@ Ingeniero Civil Informático apasionado por la convergencia entre la **Inteligen
 ---
 
 ---
-## ⚡ Datos Curiosos
-- ♟️ Jugador de ajedrez y entusiasta del **One Piece TCG**.
-- 🎲 Dungeon Master ocasional en **D&D**.
-- 🧟 Sobreviviente profesional en **Project Zomboid**.
+##  Datos Curiosos
+-  Jugador de ajedrez y entusiasta del **One Piece TCG**.
+-  Dungeon Master ocasional en **D&D**.
