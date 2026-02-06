@@ -71,7 +71,7 @@ Ingeniero Civil Informático apasionado por la convergencia entre la **Inteligen
 </details>
 
 <details>
-  <summary><b>📱 Desarrollo Full Stack & Mobile</b></summary>
+  <summary><b>📱 Desarrollo Mobile</b></summary>
   <br>
    <blockquote>
     Descripción: Diseño y desarrollo de una aplicación móvil multiplataforma (iOS/Android) enfocada en la gestión de objetivos mediante el framework Capacitor. Implementé un sistema de trazabilidad de      rutinas que permite a los usuarios visualizar su progreso histórico y cumplir metas mediante indicadores de desempeño.
@@ -90,11 +90,18 @@ Ingeniero Civil Informático apasionado por la convergencia entre la **Inteligen
 </details>
 
 <details>
-  <summary><b>☁️ Infraestructura Cloud & AWS</b></summary>
+  <summary><b>Desarollo Full Stack </b></summary>
   <br>
   <p align="center">
-    <img src="image4.png" width="45%" alt="Arquitectura AWS">
-    <img src="image5.png" width="45%" alt="Configuración Cloud">
+    <blockquote>
+    Descripción: Aplicación web full-stack de alto rendimiento diseñada para la validación y auditoría de documentación técnica/legal. Desarrollada con Next.js y TypeScript, la plataforma implementa una arquitectura escalable que garantiza la integridad de los datos y la trazabilidad de cada proceso de fiscalización.
+  </blockquote>
+  <p align="center">
+    <img src="FiscalDOCMain.png" width="45%" alt="Mobile App 1">
+    <img src="Main2.png" width="45%" alt="Web App 1">
+    <img src="main3.png" width="45%" alt="Mobile App 1">
+    <img src="imagen_2026-02-06_050450406.png" width="45%" alt="Web App 1">
+  </p>
   </p>
   <blockquote>
     Implementación de servicios escalables y seguros en la nube de Amazon Web Services.
