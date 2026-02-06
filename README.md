@@ -1,7 +1,7 @@
 <h1 align="center">Felipe Aránguiz | Full Stack & AI Developer 🚀</h1>
 
 <div align="center">
-  <img src="image.png" alt="Felipe Aranguiz Banner" width="100%">
+  <img src="image.png" alt="Felipe Aranguiz Banner" width="60%">
 </div>
 
 <h4 align="center">
