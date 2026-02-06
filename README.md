@@ -1,19 +1,20 @@
 <h1 align="center">Felipe Aránguiz | Full Stack & AI Developer 🚀</h1>
 
- <align="center">
+<table align="center" border="0">
   <tr>
-    <td width="50%" align="center">
-      <img src="Banner.png" width="100%" alt="Proyecto Mobile"/><br />
+    <td align="center">
+      <img src="Banner.png" width="100%" alt="Proyecto Mobile">
+      <br>
+      <h4 align="center">
+        <b><a href="https://www.linkedin.com/in/felipearang/">LinkedIn</a></b>
+        &nbsp; • &nbsp;
+        <b><a href="https://github.com/meme11-co">GitHub</a></b>
+        &nbsp; • &nbsp;
+        <b><a href="mailto:felipe.32.7b@gmail.com">Contacto</a></b>
+      </h4>
+    </td>
   </tr>
-</h4>
-
-  <b><a href="https://www.linkedin.com/in/felipearang/">LinkedIn</a></b>
-  •
-  <b><a href="https://github.com/meme11-co">GitHub</a></b>
-  •
-  <b><a href="mailto:felipe.32.7b@gmail.com">Contacto</a></b>
-</h4>
-
+</table>
 ## 🤖 Sobre mí
 Ingeniero Civil Informático apasionado por la convergencia entre la **Inteligencia Artificial** y el desarrollo **Full Stack (Web & Mobile)**. Actualmente enfocado en la arquitectura Cloud con AWS y la automatización inteligente de procesos.
 
