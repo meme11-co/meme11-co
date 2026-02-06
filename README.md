@@ -15,10 +15,10 @@
     </td>
   </tr>
 </table>
+
+
 ## 🤖 Sobre mí
 Ingeniero Civil Informático apasionado por la convergencia entre la **Inteligencia Artificial** y el desarrollo **Full Stack (Web & Mobile)**. Actualmente enfocado en la arquitectura Cloud con AWS y la automatización inteligente de procesos.
-
----
 
 ## 🚀 Proyectos Destacados
 
