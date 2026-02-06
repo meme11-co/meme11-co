@@ -52,6 +52,21 @@ Ingeniero Civil Informático apasionado por la convergencia entre la **Inteligen
 </div>
 
 ---
+## 🛠️ Portafolio Detallado
+
+<details>
+  <summary><b>📈 Inteligencia Artificial & Data Science</b></summary>
+  <br>
+  <img src="Banneria.png" width="100%">
+  <p>Análisis de productividad mediante modelos predictivos...</p>
+</details>
+
+<details>
+  <summary><b>📱 Desarrollo Mobile & Full Stack</b></summary>
+  <br>
+  <img src="bannermobile.png" width="100%">
+  <p>Aplicaciones multiplataforma con integración en la nube...</p>
+</details>
 
 ## ⚡ Datos Curiosos
 - ♟️ Jugador de ajedrez y entusiasta del **One Piece TCG**.
