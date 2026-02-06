@@ -73,8 +73,15 @@ Ingeniero Civil Informático apasionado por la convergencia entre la **Inteligen
 <details>
   <summary><b>📱 Desarrollo Full Stack & Mobile</b></summary>
   <br>
+   <blockquote>
+    Descripción: Diseño y desarrollo de una aplicación móvil multiplataforma (iOS/Android) enfocada en la gestión de objetivos mediante el framework Capacitor. Implementé un sistema de trazabilidad de      rutinas que permite a los usuarios visualizar su progreso histórico y cumplir metas mediante indicadores de desempeño.
+  </blockquote>
   <p align="center">
-    <img src="image2.png" width="45%" alt="Mobile App 1">
+    <img src="image.png" width="45%" alt="Mobile App 1">
+    <img src="image2.png" width="45%" alt="Web App 1"> 
+    <img src="image3.png" width="45%" alt="Mobile App 1">
+    <img src="image4.png" width="45%" alt="Web App 1">
+    <img src="image5.png" width="45%" alt="Mobile App 1">
     <img src="image3.png" width="45%" alt="Web App 1">
   </p>
   <blockquote>
