@@ -1,7 +1,7 @@
 <h1 align="center">Felipe Aránguiz | Full Stack & AI Developer 🚀</h1>
 
  <td width="20%" align="center">
-      <img src="Banner.png" width="100%" alt="Proyecto Mobile"/><br />
+      <img src="Banner.png" width="50%" alt="Proyecto Mobile"/><br />
 <h4 align="center">
   <b><a href="https://www.linkedin.com/in/felipearang/">LinkedIn</a></b>
   •
