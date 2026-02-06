@@ -5,6 +5,12 @@
     <td width="50%" align="center">
       <img src="Banner.png" width="100%" alt="Proyecto Mobile"/><br />
   </tr>
+  <b><a href="https://www.linkedin.com/in/felipearang/">LinkedIn</a></b>
+  •
+  <b><a href="https://github.com/meme11-co">GitHub</a></b>
+  •
+  <b><a href="mailto:felipe.32.7b@gmail.com">Contacto</a></b>
+</h4>
 </table>
   <b><a href="https://www.linkedin.com/in/felipearang/">LinkedIn</a></b>
   •
