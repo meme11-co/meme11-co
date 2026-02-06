@@ -1,7 +1,7 @@
 <h1 align="center">Felipe Aránguiz | Full Stack & AI Developer 🚀</h1>
 
  <td width="50%" align="center">
-      <img src="banner" width="100%" alt="Proyecto Mobile"/><br />
+      <img src="Banner.png" width="100%" alt="Proyecto Mobile"/><br />
 <h4 align="center">
   <b><a href="https://www.linkedin.com/in/felipearang/">LinkedIn</a></b>
   •
@@ -26,7 +26,7 @@ Ingeniero Civil Informático apasionado por la convergencia entre la **Inteligen
       <a href="https://github.com/meme11-co">Ver Repositorio 🔗</a>
     </td>
     <td width="50%" align="center">
-      <img src="imagen_2026-02-06_021550192.png" width="100%" alt="Proyecto Mobile"/><br />
+      <img src="bannermobile.png" width="100%" alt="Proyecto Mobile"/><br />
       <b>Desarrollo Móvil & Web</b><br />
       <i>App multiplataforma en Flutter + Django</i><br />
       <a href="https://github.com/meme11-co">Ver Repositorio 🔗</a>
