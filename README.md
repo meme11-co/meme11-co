@@ -9,9 +9,9 @@
   •
   <b><a href="https://github.com/meme11-co">GitHub</a></b>
   •
-  <b><a href="mailto:felipe.aranguiz.d@gmail.com">Contacto</a></b>
+  <b><a href="mailto:felipe.32.7b@gmail.com">Contacto</a></b>
   •
-  <b><a href="https://www.workana.com/worker/felipe-aranguiz">Workana</a></b>
+
 </h4>
 
 ## 🤖 Sobre mí
