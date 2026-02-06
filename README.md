@@ -1,6 +1,8 @@
 <h1 align="center">Felipe Aránguiz | Full Stack & AI Developer 🚀</h1>
 
-
+<div align="center">
+  <img src="image.png" alt="Felipe Aranguiz Banner" width="60%">
+</div>
 
 <h4 align="center">
   <b><a href="https://www.linkedin.com/in/felipearang/">LinkedIn</a></b>
@@ -8,8 +10,6 @@
   <b><a href="https://github.com/meme11-co">GitHub</a></b>
   •
   <b><a href="mailto:felipe.32.7b@gmail.com">Contacto</a></b>
-  •
-
 </h4>
 
 ## 🤖 Sobre mí
@@ -22,15 +22,13 @@ Ingeniero Civil Informático apasionado por la convergencia entre la **Inteligen
 <table align="center">
   <tr>
     <td width="50%" align="center">
-      <img src="https://via.placeholder.com/400x200?text=IA+Project" width="100%" alt="Proyecto IA"/><br />
+      <img src="banner_ia.png" width="100%" alt="Proyecto IA"/><br />
       <b>Proyecto IA & Machine Learning</b><br />
       <i>Optimización de procesos con ML</i><br />
       <a href="https://github.com/meme11-co">Ver Repositorio 🔗</a>
     </td>
     <td width="50%" align="center">
-     <div align="center">
-  <img src="imagen_2026-02-06_021550192.png" alt="Felipe Aranguiz Banner" width="50%">
-</div>
+      <img src="imagen_2026-02-06_021550192.png" width="100%" alt="Proyecto Mobile"/><br />
       <b>Desarrollo Móvil & Web</b><br />
       <i>App multiplataforma en Flutter + Django</i><br />
       <a href="https://github.com/meme11-co">Ver Repositorio 🔗</a>
